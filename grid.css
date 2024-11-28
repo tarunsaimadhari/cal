@@ -1,0 +1,126 @@
+#minbox{
+    border: 7px solid black;
+    padding: 25px;
+    border-radius: 60px;
+    width: 455px;
+    background-color:gray;
+    color: white;
+    font-size: xx-large;
+
+    
+}
+#sub{
+    border: 7px solid black;
+    width: 455px; 
+    position:relative;
+    top:10px;
+    left:1px;
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr ;
+    /* grid-template-rows:repeat(5,1fr) ; */
+    padding: 10px;
+    row-gap: 10px;
+    column-gap: 30px;
+    background-color:darkslategrey;  
+    border-radius: 40px; 
+    /* justify-content: center; */
+}
+#b1{
+    border: 3px solid black;
+    width: 80px;
+    padding: 20px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    font-size:xx-large;
+    box-shadow: 10px 2px 10px black;
+    background-color:azure 
+}
+#b2{
+    background-color:orangered;
+    box-shadow: 5px 5px 5px black;
+    font-size:xx-large;
+    color: white;
+    border-radius: 150px;
+}
+#b3{
+    background-color: purple;
+    box-shadow: 5px 5px 5px black;
+    font-size:xx-large;
+    color: white;
+    border-radius: 20px;
+}
+body{
+    margin-top: 60px;
+    background-image: url(https://blog-media.byjusfutureschool.com/bfs-blog/2022/07/28040413/Article-Page-58.png);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    /* margin-left: 555px; */
+    text-align: center;
+    
+   
+}
+#main{
+    border: 4px solid black;
+    width:540px;
+    padding: 20px;
+    border-radius: 60px;   
+    background-color: cadetblue; 
+}
+#b4{
+    background-color:green;
+    box-shadow: 5px 5px 5px black , 5px 5px 5px greenyellow, 5px 5px 5px blue,5px 5px 5px orange;
+    font-size:xx-large;
+    color: white;
+    border-radius: 20px;
+}
+#b5{
+    background-color:green;
+    box-shadow: 5px 5px 5px black , 5px 5px 5px greenyellow, 5px 5px 5px blue,5px 5px 5px orange;
+    font-size:xx-large;
+    color: white;
+    border-radius: 20px;
+}
+#b6{
+    background-color:green;
+    box-shadow: 5px 5px 5px black , 5px 5px 5px greenyellow, 5px 5px 5px blue,5px 5px 5px orange;
+    font-size:xx-large;
+    color: white;
+    border-radius: 20px;
+}
+#b7{
+    background-color:green;
+    box-shadow: 5px 5px 5px black , 5px 5px 5px greenyellow, 5px 5px 5px blue,5px 5px 5px orange;
+    font-size:xx-large;
+    color: white;
+    border-radius: 20px;
+
+}
+#b8{
+    background-color:darkblue;
+    box-shadow: 5px 5px 5px black , 5px 5px 5px greenyellow, 5px 5px 5px blue,5px 5px 5px orange;
+    font-size:xx-large;
+    color: white;
+    border-radius: 20px;
+    width: 80px;
+    padding: 20px;
+}
+#b9{
+    background-color:red;
+    box-shadow: 5px 5px 5px black , 5px 5px 5px greenyellow, 5px 5px 5px blue,5px 5px 5px orange;
+    font-size:xx-large;
+    color: white;
+    border-radius: 20px;
+}
+h1{
+    /* border:2px solid black; */
+    /* background-color: azure; */
+    /* border-radius: 30px; */
+    /* padding: 2px; */
+    /* width: 550px; */
+    text-shadow: 2px 2px 3px yellow ,2px 5px 3px yellowgreen ,2px 0px 3px greenyellow , 2px 5px 3px blue , 2px 7px 3px orangered;
+    
+}
